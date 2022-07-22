@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @XArchenon
 - 👀 I'm Interested In Web Development
-- 🌱 I'm JavaScript
+- 🌱 I'm Currently Learning JavaScript
 - 💞️ I'm looking to collaborate on ...
 - 📫 How to reach me ...
 
